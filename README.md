@@ -15,6 +15,6 @@ Stroke:  Predicts strokes in patients (Python)
 
 Data Analysis:  Two Data Analysis Projects
     
-     Penguins:  Did Data Analysis on the penguins dataset (R)
+  Penguins:  Did Data Analysis on the penguins dataset (R)
     
-     Soil Study:  Data Analysis on particle samples, currently writing research paper with Vanderbilt professor on it (R)
+  Soil Study:  Data Analysis on particle samples, currently writing research paper with Vanderbilt professor on it (R)
