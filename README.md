@@ -9,5 +9,7 @@ Diamonds:  Predicts the Price of Diamonds
 
 Penguins:  Classifies penguins into one of three different types
 
+Breast Cancer:  Classifies Biopsy Measurements as either cancerous or noncancerous
 
+Stroke:  Predicts strokes in patients
 
