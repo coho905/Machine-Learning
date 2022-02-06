@@ -13,7 +13,7 @@ Breast Cancer:  Classifies Biopsy Measurements as either cancerous or noncancero
 
 Stroke:  Predicts strokes in patients (Python)
 
-Data Analysis:  Two Data Analysis Projects
+Data Analysis: 
     
     - Penguins:  Did Data Analysis on the penguins dataset (R)
     
