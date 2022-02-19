@@ -11,6 +11,8 @@ Penguins:  Classifies penguins into one of three different types (Python)
 
 Breast Cancer:  Classifies Biopsy Measurements as either cancerous or noncancerous (Python)
 
+Siri:  Using Natural Language Processing & Data Analysis to Understand how virtual assistants work (Python)
+
 Stroke:  Predicts strokes in patients (Python)
 
 Data Analysis: 
