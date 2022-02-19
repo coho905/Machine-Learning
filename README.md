@@ -1,5 +1,5 @@
 # Machine-Learning
-This is a collection of the machine learning projects I have built.
+This is a collection of the machine learning projects I have built
 --------------------------------------------------------------------
 Descriptions:
 
