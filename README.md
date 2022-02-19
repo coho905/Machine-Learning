@@ -3,20 +3,20 @@ This is a collection of the machine learning projects I have built.
 --------------------------------------------------------------------
 Descriptions:
 
-Heart Attack:  Predicts heart attacks in patients (Python)
+Heart Attack:  Predicts Heart Attacks in Patients (Python)
 
 Diamonds:  Predicts the Price of Diamonds (Python)
 
-Penguins:  Classifies penguins into one of three different types (Python)
+Penguins:  Classifies Penguins Into One of Three Different Types (Python)
 
-Breast Cancer:  Classifies Biopsy Measurements as either cancerous or noncancerous (Python)
+Breast Cancer:  Classifies Biopsy Measurements as Either Cancerous or Noncancerous (Python)
 
-Siri:  Using Natural Language Processing & Data Analysis to Understand how virtual assistants work (Python)
+Siri:  Using Natural Language Processing & Data Analysis to Understand How Virtual Assistants Work (Python)
 
-Stroke:  Predicts strokes in patients (Python)
+Stroke:  Predicts Strokes in Patients (Python)
 
 Data Analysis: 
     
-    - Penguins:  Did Data Analysis on the penguins dataset (R)
+    - Penguins:  Did Data Analysis on the Penguins Dataset (R)
     
-    - Soil Study:  Data Analysis on particle samples, currently writing research paper with Vanderbilt professor on it (R)
+    - Soil Study:  Data Analysis on Particle Samples, Currently Writing Research Paper with Vanderbilt Professor on it (R)
